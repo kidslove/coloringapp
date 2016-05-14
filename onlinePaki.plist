@@ -146,5 +146,24 @@
 		<key>packName</key>
 		<string>FLOWERS</string>
 	</dict>
+	<dict>
+		<key>packName</key>
+		<string>PATTERNS</string>
+		<key>packIcon</key>
+		<string>patterns</string>
+		<key>packFiles</key>
+		<array>
+			<string>muster1</string>
+			<string>muster2</string>
+			<string>muster3</string>
+			<string>muster4</string>
+			<string>muster5</string>
+			<string>muster6</string>
+			<string>muster7</string>
+			<string>muster8</string>
+			<string>muster9</string>
+			<string>muster10</string>
+		</array>
+	</dict>
 </array>
 </plist>
