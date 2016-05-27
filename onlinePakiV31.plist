@@ -17,6 +17,8 @@
 			<string>Mandala13</string>
 			<string>Mandala14</string>
 			<string>Mandala15</string>
+			<string>MandalaR6</string>
+			<string>MandalaR7</string>
 		</array>
 		<key>packIcon</key>
 		<string>mandalas</string>
@@ -84,6 +86,7 @@
 			<string>animal6</string>
 			<string>sea1</string>
 			<string>animalR1</string>
+			<string>animalR2</string>
 		</array>
 		<key>packIcon</key>
 		<string>animals</string>
@@ -123,6 +126,7 @@
 			<string>Woman9</string>
 			<string>Woman10</string>
 			<string>Woman11</string>
+			<string>Woman12</string>
 		</array>
 		<key>packIcon</key>
 		<string>women</string>
