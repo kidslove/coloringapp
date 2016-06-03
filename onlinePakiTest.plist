@@ -19,6 +19,8 @@
 			<string>Mandala15</string>
 			<string>MandalaR6</string>
 			<string>MandalaR7</string>
+			<string>MandalaR8</string>
+			<string>MandalaR9</string>
 		</array>
 		<key>packIcon</key>
 		<string>mandalas</string>
@@ -70,6 +72,8 @@
 			<string>animal5</string>
 			<string>Butterfly5</string>
 			<string>Butterfly6</string>
+			<string>butterfly8</string>
+			<string>butterfly9</string>
 		</array>
 		<key>packIcon</key>
 		<string>butterflies</string>
