@@ -54,6 +54,7 @@
 			<string>cat5</string>
 			<string>cat6</string>
 			<string>cat7</string>
+			<string>cat8</string>
 		</array>
 		<key>packIcon</key>
 		<string>cats</string>
