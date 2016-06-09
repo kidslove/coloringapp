@@ -20,6 +20,7 @@
 			<string>MandalaR6</string>
 			<string>MandalaR7</string>
 			<string>MandalaR8</string>
+			<string>MandalaR9</string>
 		</array>
 		<key>packIcon</key>
 		<string>mandalas</string>
@@ -74,6 +75,7 @@
 			<string>Butterfly6</string>
 			<string>butterfly8</string>
 			<string>butterfly9</string>
+			<string>butterfly10</string>
 		</array>
 		<key>packIcon</key>
 		<string>butterflies</string>
@@ -188,6 +190,8 @@
 			<string>sweets4</string>
 			<string>sweets5</string>
 			<string>sweets6</string>
+			<string>sweets7</string>
+			<string>sweets8</string>
 		</array>
 		<key>packIcon</key>
 		<string>sweets</string>
