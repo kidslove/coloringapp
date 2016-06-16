@@ -56,6 +56,7 @@
 			<string>cat6</string>
 			<string>cat7</string>
 			<string>cat8</string>
+			<string>cat9</string>
 		</array>
 		<key>packIcon</key>
 		<string>cats</string>
@@ -133,6 +134,7 @@
 			<string>Woman10</string>
 			<string>Woman11</string>
 			<string>Woman12</string>
+			<string>Woman13</string>
 		</array>
 		<key>packIcon</key>
 		<string>women</string>
