@@ -200,5 +200,17 @@
 		<key>packName</key>
 		<string>SWEETS</string>
 	</dict>
+	<dict>
+		<key>packFiles</key>
+		<array>
+			<string>PixelArt2</string>
+			<string>PixelArt3</string>
+			<string>PixelArt4</string>
+		</array>
+		<key>packIcon</key>
+		<string>pixelart</string>
+		<key>packName</key>
+		<string>PIXEL ART</string>
+	</dict>
 </array>
 </plist>
