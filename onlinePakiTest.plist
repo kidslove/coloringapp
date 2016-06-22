@@ -21,6 +21,7 @@
 			<string>MandalaR7</string>
 			<string>MandalaR8</string>
 			<string>MandalaR9</string>
+			<string>MandalaR10</string>
 		</array>
 		<key>packIcon</key>
 		<string>mandalas</string>
@@ -40,6 +41,7 @@
 			<string>paisley3</string>
 			<string>paisley4</string>
 			<string>birdR1</string>
+			<string>birdR2</string>
 		</array>
 		<key>packIcon</key>
 		<string>birds</string>
@@ -206,6 +208,8 @@
 			<string>PixelArt2</string>
 			<string>PixelArt3</string>
 			<string>PixelArt4</string>
+			<string>PixelArt1</string>
+			<string>PixelArt5</string>
 		</array>
 		<key>packIcon</key>
 		<string>pixelart</string>
