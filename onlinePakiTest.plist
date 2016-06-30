@@ -22,6 +22,8 @@
 			<string>MandalaR8</string>
 			<string>MandalaR9</string>
 			<string>MandalaR10</string>
+			<string>Mandala_V2_1</string>
+			<string>Mandala_V2_2</string>
 		</array>
 		<key>packIcon</key>
 		<string>mandalas</string>
@@ -96,6 +98,7 @@
 			<string>sea1</string>
 			<string>animalR1</string>
 			<string>animalR2</string>
+			<string>animalR3</string>
 		</array>
 		<key>packIcon</key>
 		<string>animals</string>
@@ -210,6 +213,8 @@
 			<string>PixelArt4</string>
 			<string>PixelArt1</string>
 			<string>PixelArt5</string>
+			<string>PixelArt6</string>
+			<string>PixelArt7</string>
 		</array>
 		<key>packIcon</key>
 		<string>pixelart</string>
