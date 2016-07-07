@@ -163,6 +163,7 @@
 			<string>flower22</string>
 			<string>flowerR1</string>
 			<string>flowerR2</string>
+			<string>flowerR3</string>
 		</array>
 		<key>packIcon</key>
 		<string>flowers</string>
@@ -199,6 +200,7 @@
 			<string>sweets6</string>
 			<string>sweets7</string>
 			<string>sweets8</string>
+			<string>sweets9</string>
 		</array>
 		<key>packIcon</key>
 		<string>sweets</string>
@@ -215,6 +217,9 @@
 			<string>PixelArt5</string>
 			<string>PixelArt6</string>
 			<string>PixelArt7</string>
+			<string>PixelArt8</string>
+			<string>PixelArt9</string>
+			<string>PixelArt10</string>
 		</array>
 		<key>packIcon</key>
 		<string>pixelart</string>
