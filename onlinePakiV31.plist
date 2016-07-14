@@ -24,6 +24,8 @@
 			<string>MandalaR10</string>
 			<string>Mandala_V2_1</string>
 			<string>Mandala_V2_2</string>
+			<string>Mandala_V2_3</string>
+			<string>Mandala_V2_4</string>
 		</array>
 		<key>packIcon</key>
 		<string>mandalas</string>
@@ -164,6 +166,7 @@
 			<string>flowerR1</string>
 			<string>flowerR2</string>
 			<string>flowerR3</string>
+			<string>flowerR10</string>
 		</array>
 		<key>packIcon</key>
 		<string>flowers</string>
@@ -201,6 +204,7 @@
 			<string>sweets7</string>
 			<string>sweets8</string>
 			<string>sweets9</string>
+			<string>sweets10</string>
 		</array>
 		<key>packIcon</key>
 		<string>sweets</string>
