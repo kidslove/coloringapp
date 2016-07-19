@@ -230,5 +230,20 @@
 		<key>packName</key>
 		<string>PIXEL ART</string>
 	</dict>
+	<dict>
+		<key>packFiles</key>
+		<array>
+			<string>fish1</string>
+			<string>fish2</string>
+			<string>fish3</string>
+			<string>fish4</string>
+			<string>fish5</string>
+			<string>fish6</string>
+		</array>
+		<key>packIcon</key>
+		<string>ocean</string>
+		<key>packName</key>
+		<string>OCEAN</string>
+	</dict>
 </array>
 </plist>
