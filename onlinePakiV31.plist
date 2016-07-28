@@ -26,6 +26,7 @@
 			<string>Mandala_V2_2</string>
 			<string>Mandala_V2_3</string>
 			<string>Mandala_V2_4</string>
+			<string>Mandala_V2_5</string>
 		</array>
 		<key>packIcon</key>
 		<string>mandalas</string>
@@ -46,6 +47,8 @@
 			<string>paisley4</string>
 			<string>birdR1</string>
 			<string>birdR2</string>
+			<string>birdR3</string>
+			<string>birdR4</string>
 		</array>
 		<key>packIcon</key>
 		<string>birds</string>
@@ -63,6 +66,7 @@
 			<string>cat7</string>
 			<string>cat8</string>
 			<string>cat9</string>
+			<string>cat10</string>
 		</array>
 		<key>packIcon</key>
 		<string>cats</string>
