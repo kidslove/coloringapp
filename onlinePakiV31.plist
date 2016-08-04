@@ -87,6 +87,7 @@
 			<string>butterfly8</string>
 			<string>butterfly9</string>
 			<string>butterfly10</string>
+			<string>butterfly7</string>
 		</array>
 		<key>packIcon</key>
 		<string>butterflies</string>
@@ -209,6 +210,8 @@
 			<string>sweets8</string>
 			<string>sweets9</string>
 			<string>sweets10</string>
+			<string>sweets11</string>
+			<string>sweets12</string>
 		</array>
 		<key>packIcon</key>
 		<string>sweets</string>
@@ -243,6 +246,7 @@
 			<string>fish4</string>
 			<string>fish5</string>
 			<string>fish6</string>
+			<string>fish7</string>
 		</array>
 		<key>packIcon</key>
 		<string>ocean1</string>
