@@ -106,6 +106,7 @@
 			<string>animalR1</string>
 			<string>animalR2</string>
 			<string>animalR3</string>
+			<string>animalR4</string>
 		</array>
 		<key>packIcon</key>
 		<string>animals</string>
@@ -231,6 +232,8 @@
 			<string>PixelArt8</string>
 			<string>PixelArt9</string>
 			<string>PixelArt10</string>
+			<string>PixelArt11</string>
+			<string>PixelArt12</string>
 		</array>
 		<key>packIcon</key>
 		<string>pixelart</string>
@@ -247,6 +250,7 @@
 			<string>fish5</string>
 			<string>fish6</string>
 			<string>fish7</string>
+			<string>fish8</string>
 		</array>
 		<key>packIcon</key>
 		<string>ocean1</string>
