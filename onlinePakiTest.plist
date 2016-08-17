@@ -173,6 +173,8 @@
 			<string>flowerR2</string>
 			<string>flowerR3</string>
 			<string>flowerR10</string>
+			<string>flowerR4</string>
+			<string>flowerR5</string>
 		</array>
 		<key>packIcon</key>
 		<string>flowers</string>
@@ -213,6 +215,7 @@
 			<string>sweets10</string>
 			<string>sweets11</string>
 			<string>sweets12</string>
+			<string>sweets13</string>
 		</array>
 		<key>packIcon</key>
 		<string>sweets</string>
@@ -251,6 +254,7 @@
 			<string>fish6</string>
 			<string>fish7</string>
 			<string>fish8</string>
+			<string>fish9</string>
 		</array>
 		<key>packIcon</key>
 		<string>ocean1</string>
