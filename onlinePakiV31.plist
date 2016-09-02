@@ -27,6 +27,8 @@
 			<string>Mandala_V2_3</string>
 			<string>Mandala_V2_4</string>
 			<string>Mandala_V2_5</string>
+			<string>Mandala_V2_6</string>
+			<string>Mandala_V2_7</string>
 		</array>
 		<key>packIcon</key>
 		<string>mandalas</string>
@@ -149,6 +151,7 @@
 			<string>Woman11</string>
 			<string>Woman12</string>
 			<string>Woman13</string>
+			<string>Woman14</string>
 		</array>
 		<key>packIcon</key>
 		<string>women</string>
@@ -259,6 +262,7 @@
 			<string>fish8</string>
 			<string>fish9</string>
 			<string>fish10</string>
+			<string>fish11</string>
 		</array>
 		<key>packIcon</key>
 		<string>ocean1</string>
