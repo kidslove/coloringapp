@@ -152,6 +152,7 @@
 			<string>Woman12</string>
 			<string>Woman13</string>
 			<string>Woman14</string>
+			<string>Woman15</string>
 		</array>
 		<key>packIcon</key>
 		<string>women</string>
@@ -206,6 +207,8 @@
 			<string>muster15</string>
 			<string>muster16</string>
 			<string>muster17</string>
+			<string>muster18</string>
+			<string>muster19</string>
 		</array>
 		<key>packIcon</key>
 		<string>patterns</string>
@@ -251,6 +254,7 @@
 			<string>PixelArt10</string>
 			<string>PixelArt11</string>
 			<string>PixelArt12</string>
+			<string>PixelArt13</string>
 		</array>
 		<key>packIcon</key>
 		<string>pixelart</string>
