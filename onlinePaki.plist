@@ -29,6 +29,7 @@
 			<string>Mandala_V2_5</string>
 			<string>Mandala_V2_6</string>
 			<string>Mandala_V2_7</string>
+			<string>Mandala_V2_8</string>
 		</array>
 		<key>packIcon</key>
 		<string>mandalas</string>
@@ -110,6 +111,7 @@
 			<string>animalR3</string>
 			<string>animalR4</string>
 			<string>animalR5</string>
+			<string>animalR6</string>
 		</array>
 		<key>packIcon</key>
 		<string>animals</string>
@@ -181,6 +183,8 @@
 			<string>flowerR4</string>
 			<string>flowerR5</string>
 			<string>flowerR6</string>
+			<string>flowerR7</string>
+			<string>flowerR8</string>
 		</array>
 		<key>packIcon</key>
 		<string>flowers</string>
