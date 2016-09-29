@@ -70,6 +70,7 @@
 			<string>cat8</string>
 			<string>cat9</string>
 			<string>cat10</string>
+			<string>cat11</string>
 		</array>
 		<key>packIcon</key>
 		<string>cats</string>
@@ -213,6 +214,8 @@
 			<string>muster17</string>
 			<string>muster18</string>
 			<string>muster19</string>
+			<string>muster20</string>
+			<string>muster21</string>
 		</array>
 		<key>packIcon</key>
 		<string>patterns</string>
@@ -280,6 +283,7 @@
 			<string>fish10</string>
 			<string>fish11</string>
 			<string>fish12</string>
+			<string>fish13</string>
 		</array>
 		<key>packIcon</key>
 		<string>ocean1</string>
