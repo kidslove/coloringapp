@@ -312,11 +312,10 @@
 		<key>packFiles</key>
 		<array>
 			<string>animal4stk</string>
-			<string>bird5stk</string>
 			<string>bird10stk</string>
 			<string>doodle4stk</string>
+			<string>bird5stk</string>
 			<string>flower4stk</string>
-			<string>Mandala9</string>
 		</array>
 		<key>packIcon</key>
 		<string>chillout</string>
