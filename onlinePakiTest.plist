@@ -358,6 +358,10 @@
 			<string>autumn3</string>
 			<string>autumn4</string>
 			<string>autumn5</string>
+			<string>Herbst1</string>
+			<string>Herbst2</string>
+			<string>Herbst3</string>
+			<string>Herbst4</string>
 		</array>
 		<key>packIcon</key>
 		<string>autumn</string>
