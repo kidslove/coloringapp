@@ -382,5 +382,19 @@
 		<key>packName</key>
 		<string>CHRISTMAS</string>
 	</dict>
+	<dict>
+		<key>packFiles</key>
+		<array>
+			<string>food7stk</string>
+			<string>food10stk</string>
+			<string>food11stk</string>
+			<string>food12stk</string>
+			<string>food13stk</string>
+		</array>
+		<key>packIcon</key>
+		<string>icecream</string>
+		<key>packName</key>
+		<string>ICE CREAM</string>
+	</dict>
 </array>
 </plist>
