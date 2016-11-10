@@ -344,6 +344,7 @@
 			<string>SweetHome3</string>
 			<string>SweetHome5</string>
 			<string>SweetHome6</string>
+			<string>HomeSweet1</string>
 		</array>
 		<key>packIcon</key>
 		<string>sweethome</string>
@@ -362,6 +363,7 @@
 			<string>Herbst2</string>
 			<string>Herbst3</string>
 			<string>Herbst4</string>
+			<string>Herbst5</string>
 		</array>
 		<key>packIcon</key>
 		<string>autumn</string>
@@ -376,6 +378,8 @@
 			<string>Christmas3</string>
 			<string>Christmas4</string>
 			<string>Christmas5</string>
+			<string>Christmas6</string>
+			<string>Christmas7</string>
 		</array>
 		<key>packIcon</key>
 		<string>christmas</string>
