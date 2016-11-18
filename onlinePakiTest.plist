@@ -302,6 +302,7 @@
 			<string>bird8stk</string>
 			<string>doodle2stk</string>
 			<string>flower2stk</string>
+			<string>mandala7stk</string>
 		</array>
 		<key>packIcon</key>
 		<string>arttherapy</string>
@@ -316,6 +317,7 @@
 			<string>doodle4stk</string>
 			<string>bird5stk</string>
 			<string>flower4stk</string>
+			<string>sea4stk</string>
 		</array>
 		<key>packIcon</key>
 		<string>chillout</string>
@@ -394,6 +396,8 @@
 			<string>food11stk</string>
 			<string>food12stk</string>
 			<string>food13stk</string>
+			<string>food15stk</string>
+			<string>food20stk</string>
 		</array>
 		<key>packIcon</key>
 		<string>icecream</string>
