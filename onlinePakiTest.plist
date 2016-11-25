@@ -347,6 +347,8 @@
 			<string>SweetHome5</string>
 			<string>SweetHome6</string>
 			<string>HomeSweet1</string>
+			<string>HomeSweet2</string>
+			<string>HomeSweet3</string>
 		</array>
 		<key>packIcon</key>
 		<string>sweethome</string>
@@ -382,6 +384,8 @@
 			<string>Christmas5</string>
 			<string>Christmas6</string>
 			<string>Christmas7</string>
+			<string>Christmas8</string>
+			<string>Christmas9</string>
 		</array>
 		<key>packIcon</key>
 		<string>christmas</string>
@@ -398,6 +402,7 @@
 			<string>food13stk</string>
 			<string>food15stk</string>
 			<string>food20stk</string>
+			<string>food14stk</string>
 		</array>
 		<key>packIcon</key>
 		<string>icecream</string>
