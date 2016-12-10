@@ -332,6 +332,8 @@
 			<string>bird7stk</string>
 			<string>doodle1stk</string>
 			<string>flower1stk</string>
+			<string>food1stk</string>
+			<string>love1stk</string>
 		</array>
 		<key>packIcon</key>
 		<string>serenity</string>
@@ -409,6 +411,8 @@
 			<string>food15stk</string>
 			<string>food20stk</string>
 			<string>food14stk</string>
+			<string>food6stk</string>
+			<string>food8stk</string>
 		</array>
 		<key>packIcon</key>
 		<string>icecream</string>
