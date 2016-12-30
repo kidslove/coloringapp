@@ -342,6 +342,9 @@
 			<string>flower1stk</string>
 			<string>food1stk</string>
 			<string>love1stk</string>
+			<string>mandala1stk</string>
+			<string>mandala6stk</string>
+			<string>sea1stk</string>
 		</array>
 		<key>packIcon</key>
 		<string>serenity</string>
@@ -359,6 +362,7 @@
 			<string>HomeSweet1</string>
 			<string>HomeSweet2</string>
 			<string>HomeSweet3</string>
+			<string>HomeSweet4</string>
 		</array>
 		<key>packIcon</key>
 		<string>sweethome</string>
