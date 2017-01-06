@@ -288,6 +288,8 @@
 			<string>fish11</string>
 			<string>fish12</string>
 			<string>fish13</string>
+			<string>fish14</string>
+			<string>fish15</string>
 		</array>
 		<key>packIcon</key>
 		<string>ocean1</string>
@@ -363,6 +365,8 @@
 			<string>HomeSweet2</string>
 			<string>HomeSweet3</string>
 			<string>HomeSweet4</string>
+			<string>HomeSweet5</string>
+			<string>HomeSweet6</string>
 		</array>
 		<key>packIcon</key>
 		<string>sweethome</string>
