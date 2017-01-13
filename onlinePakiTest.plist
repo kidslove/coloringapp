@@ -52,6 +52,8 @@
 			<string>birdR2</string>
 			<string>birdR3</string>
 			<string>birdR4</string>
+			<string>Pelikan</string>
+			<string>Pfau</string>
 		</array>
 		<key>packIcon</key>
 		<string>birds</string>
@@ -113,6 +115,8 @@
 			<string>animalR4</string>
 			<string>animalR5</string>
 			<string>animalR6</string>
+			<string>FOX</string>
+			<string>Lion2</string>
 		</array>
 		<key>packIcon</key>
 		<string>animals</string>
