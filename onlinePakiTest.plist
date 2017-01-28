@@ -190,6 +190,7 @@
 			<string>flowerR6</string>
 			<string>flowerR7</string>
 			<string>flowerR8</string>
+			<string>flowerR9</string>
 		</array>
 		<key>packIcon</key>
 		<string>flowers</string>
@@ -371,6 +372,9 @@
 			<string>HomeSweet4</string>
 			<string>HomeSweet5</string>
 			<string>HomeSweet6</string>
+			<string>HomeSweet8</string>
+			<string>HomeSweet9</string>
+			<string>HomeSweet10</string>
 		</array>
 		<key>packIcon</key>
 		<string>sweethome</string>
