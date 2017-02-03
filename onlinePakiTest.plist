@@ -54,6 +54,8 @@
 			<string>birdR4</string>
 			<string>Pelikan</string>
 			<string>Pfau</string>
+			<string>birdIS7</string>
+			<string>birdIS20</string>
 		</array>
 		<key>packIcon</key>
 		<string>birds</string>
@@ -94,6 +96,8 @@
 			<string>butterfly9</string>
 			<string>butterfly10</string>
 			<string>butterfly7</string>
+			<string>ButterflyIS1</string>
+			<string>ButterflyIS2</string>
 		</array>
 		<key>packIcon</key>
 		<string>butterflies</string>
