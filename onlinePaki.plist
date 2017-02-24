@@ -63,6 +63,8 @@
 			<string>Pfau</string>
 			<string>birdIS7</string>
 			<string>birdIS20</string>
+			<string>bird_IS9</string>
+			<string>bird_IS18</string>
 		</array>
 		<key>packIcon</key>
 		<string>birds</string>
@@ -239,6 +241,9 @@
 			<string>muster23</string>
 			<string>muster24</string>
 			<string>muster25</string>
+			<string>muster_26</string>
+			<string>muster_27</string>
+			<string>muster_28</string>
 		</array>
 		<key>packIcon</key>
 		<string>patterns</string>
