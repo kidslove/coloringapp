@@ -115,6 +115,21 @@
 	<dict>
 		<key>packFiles</key>
 		<array>
+			<string>garden1</string>
+			<string>garden2</string>
+			<string>garden3</string>
+			<string>garden4</string>
+			<string>garden5</string>
+			<string>garden6</string>
+		</array>
+		<key>packIcon</key>
+		<string>garden1</string>
+		<key>packName</key>
+		<string>GARDEN 1</string>
+	</dict>
+	<dict>
+		<key>packFiles</key>
+		<array>
 			<string>cat2</string>
 			<string>cat1</string>
 			<string>cat4</string>
