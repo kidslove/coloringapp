@@ -80,6 +80,21 @@
 	<dict>
 		<key>packFiles</key>
 		<array>
+			<string>magic1</string>
+			<string>magic2</string>
+			<string>magic3</string>
+			<string>magic4</string>
+			<string>magic5</string>
+			<string>magic9</string>
+		</array>
+		<key>packIcon</key>
+		<string>magicworld</string>
+		<key>packName</key>
+		<string>MAGIC World</string>
+	</dict>
+	<dict>
+		<key>packFiles</key>
+		<array>
 			<string>paisley6</string>
 			<string>bird1</string>
 			<string>bird2</string>
