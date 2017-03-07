@@ -104,6 +104,66 @@
 	<dict>
 		<key>packFiles</key>
 		<array>
+			<string>bird_IS8</string>
+			<string>bird_IS10</string>
+			<string>bird_IS11</string>
+			<string>bird_IS12</string>
+			<string>bird_IS13</string>
+			<string>bird_IS16</string>
+		</array>
+		<key>packIcon</key>
+		<string>birds2</string>
+		<key>packName</key>
+		<string>BIRDS 2</string>
+	</dict>
+	<dict>
+		<key>packFiles</key>
+		<array>
+			<string>magic1</string>
+			<string>magic2</string>
+			<string>magic3</string>
+			<string>magic4</string>
+			<string>magic5</string>
+			<string>magic9</string>
+		</array>
+		<key>packIcon</key>
+		<string>magicworld</string>
+		<key>packName</key>
+		<string>MAGIC World</string>
+	</dict>
+	<dict>
+		<key>packFiles</key>
+		<array>
+			<string>garden1</string>
+			<string>garden2</string>
+			<string>garden3</string>
+			<string>garden4</string>
+			<string>garden5</string>
+			<string>garden6</string>
+		</array>
+		<key>packIcon</key>
+		<string>garden1</string>
+		<key>packName</key>
+		<string>GARDEN 1</string>
+	</dict>
+	<dict>
+		<key>packFiles</key>
+		<array>
+			<string>garden12</string>
+			<string>garden13</string>
+			<string>garden14</string>
+			<string>garden15</string>
+			<string>garden16</string>
+			<string>garden17</string>
+		</array>
+		<key>packIcon</key>
+		<string>garden2</string>
+		<key>packName</key>
+		<string>GARDEN 2</string>
+	</dict>
+	<dict>
+		<key>packFiles</key>
+		<array>
 			<string>cat2</string>
 			<string>cat1</string>
 			<string>cat4</string>
