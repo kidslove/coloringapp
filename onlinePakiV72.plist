@@ -26,41 +26,22 @@
 			<string>Mandala_V2_2</string>
 			<string>Mandala_V2_3</string>
 			<string>Mandala_V2_4</string>
+			<string>Mandala_V2_5</string>
+			<string>Mandala_V2_6</string>
+			<string>Mandala_V2_7</string>
+			<string>Mandala_V2_8</string>
+			<string>MandalaV2_1</string>
+			<string>MandalaV2_2</string>
+			<string>MandalaV2_3</string>
+			<string>MandalaV2_4</string>
+			<string>MandalaV2_5</string>
+			<string>MandalaV2_6</string>
+			<string>MandalaV2_7</string>
 		</array>
 		<key>packIcon</key>
 		<string>mandalas</string>
 		<key>packName</key>
 		<string>MANDALAS</string>
-	</dict>
-	<dict>
-		<key>packFiles</key>
-		<array>
-			<string>MandalaV2_8</string>
-			<string>MandalaV2_9</string>
-			<string>MandalaV2_10</string>
-			<string>MandalaV2_11</string>
-			<string>MandalaV2_12</string>
-			<string>MandalaV2_13</string>
-		</array>
-		<key>packIcon</key>
-		<string>mandala2</string>
-		<key>packName</key>
-		<string>MANDALA 2</string>
-	</dict>
-	<dict>
-		<key>packFiles</key>
-		<array>
-			<string>MandalaV2_20</string>
-			<string>MandalaV2_21</string>
-			<string>MandalaV2_22</string>
-			<string>MandalaV2_23</string>
-			<string>MandalaV2_24</string>
-			<string>MandalaV2_25</string>
-		</array>
-		<key>packIcon</key>
-		<string>mandala3</string>
-		<key>packName</key>
-		<string>MANDALA 3</string>
 	</dict>
 	<dict>
 		<key>packFiles</key>
@@ -76,71 +57,19 @@
 			<string>paisley4</string>
 			<string>birdR1</string>
 			<string>birdR2</string>
+			<string>birdR3</string>
+			<string>birdR4</string>
+			<string>Pelikan</string>
+			<string>Pfau</string>
+			<string>birdIS7</string>
+			<string>birdIS20</string>
+			<string>bird_IS9</string>
+			<string>bird_IS18</string>
 		</array>
 		<key>packIcon</key>
 		<string>birds</string>
 		<key>packName</key>
 		<string>BIRDS</string>
-	</dict>
-	<dict>
-		<key>packFiles</key>
-		<array>
-			<string>bird_IS8</string>
-			<string>bird_IS10</string>
-			<string>bird_IS11</string>
-			<string>bird_IS12</string>
-			<string>bird_IS13</string>
-			<string>bird_IS16</string>
-		</array>
-		<key>packIcon</key>
-		<string>birds2</string>
-		<key>packName</key>
-		<string>BIRDS 2</string>
-	</dict>
-	<dict>
-		<key>packFiles</key>
-		<array>
-			<string>magic1</string>
-			<string>magic2</string>
-			<string>magic3</string>
-			<string>magic4</string>
-			<string>magic5</string>
-			<string>magic9</string>
-		</array>
-		<key>packIcon</key>
-		<string>magicworld</string>
-		<key>packName</key>
-		<string>MAGIC World</string>
-	</dict>
-	<dict>
-		<key>packFiles</key>
-		<array>
-			<string>garden1</string>
-			<string>garden2</string>
-			<string>garden3</string>
-			<string>garden4</string>
-			<string>garden5</string>
-			<string>garden6</string>
-		</array>
-		<key>packIcon</key>
-		<string>garden1</string>
-		<key>packName</key>
-		<string>GARDEN 1</string>
-	</dict>
-	<dict>
-		<key>packFiles</key>
-		<array>
-			<string>garden12</string>
-			<string>garden13</string>
-			<string>garden14</string>
-			<string>garden15</string>
-			<string>garden16</string>
-			<string>garden17</string>
-		</array>
-		<key>packIcon</key>
-		<string>garden2</string>
-		<key>packName</key>
-		<string>GARDEN 2</string>
 	</dict>
 	<dict>
 		<key>packFiles</key>
@@ -153,6 +82,8 @@
 			<string>cat7</string>
 			<string>cat8</string>
 			<string>cat9</string>
+			<string>cat10</string>
+			<string>cat11</string>
 		</array>
 		<key>packIcon</key>
 		<string>cats</string>
@@ -173,41 +104,14 @@
 			<string>butterfly8</string>
 			<string>butterfly9</string>
 			<string>butterfly10</string>
+			<string>butterfly7</string>
+			<string>ButterflyIS1</string>
+			<string>ButterflyIS2</string>
 		</array>
 		<key>packIcon</key>
 		<string>butterflies</string>
 		<key>packName</key>
 		<string>BUTTERFLIES</string>
-	</dict>
-	<dict>
-		<key>packFiles</key>
-		<array>
-			<string>ButterflyIS14</string>
-			<string>ButterflyIS15</string>
-			<string>ButterflyIS16</string>
-			<string>ButterflyIS17</string>
-			<string>ButterflyIS18</string>
-			<string>ButterflyIS24</string>
-		</array>
-		<key>packIcon</key>
-		<string>butterflies2</string>
-		<key>packName</key>
-		<string>BUTTERFLIES 2</string>
-	</dict>
-	<dict>
-		<key>packFiles</key>
-		<array>
-			<string>ButterflyIS3</string>
-			<string>ButterflyIS4</string>
-			<string>ButterflyIS5</string>
-			<string>ButterflyIS6</string>
-			<string>ButterflyIS7</string>
-			<string>ButterflyIS11</string>
-		</array>
-		<key>packIcon</key>
-		<string>butterflies3</string>
-		<key>packName</key>
-		<string>BUTTERFLIES 3</string>
 	</dict>
 	<dict>
 		<key>packFiles</key>
@@ -221,6 +125,12 @@
 			<string>animalR1</string>
 			<string>animalR2</string>
 			<string>animalR3</string>
+			<string>animalR4</string>
+			<string>animalR5</string>
+			<string>animalR6</string>
+			<string>FOX</string>
+			<string>Lion2</string>
+			<string>animal_IS_1</string>
 		</array>
 		<key>packIcon</key>
 		<string>animals</string>
@@ -262,6 +172,8 @@
 			<string>Woman11</string>
 			<string>Woman12</string>
 			<string>Woman13</string>
+			<string>Woman14</string>
+			<string>Woman15</string>
 		</array>
 		<key>packIcon</key>
 		<string>women</string>
@@ -287,6 +199,14 @@
 			<string>flowerR2</string>
 			<string>flowerR3</string>
 			<string>flowerR10</string>
+			<string>flowerR4</string>
+			<string>flowerR5</string>
+			<string>flowerR6</string>
+			<string>flowerR7</string>
+			<string>flowerR8</string>
+			<string>flowerR9</string>
+			<string>FlowerV2_1</string>
+			<string>FlowerV2_2</string>
 		</array>
 		<key>packIcon</key>
 		<string>flowers</string>
@@ -306,6 +226,24 @@
 			<string>muster8</string>
 			<string>muster9</string>
 			<string>muster10</string>
+			<string>muster11</string>
+			<string>muster12</string>
+			<string>muster13</string>
+			<string>muster14</string>
+			<string>muster15</string>
+			<string>muster16</string>
+			<string>muster17</string>
+			<string>muster18</string>
+			<string>muster19</string>
+			<string>muster20</string>
+			<string>muster21</string>
+			<string>muster22</string>
+			<string>muster23</string>
+			<string>muster24</string>
+			<string>muster25</string>
+			<string>muster_26</string>
+			<string>muster_27</string>
+			<string>muster_28</string>
 		</array>
 		<key>packIcon</key>
 		<string>patterns</string>
@@ -325,6 +263,11 @@
 			<string>sweets8</string>
 			<string>sweets9</string>
 			<string>sweets10</string>
+			<string>sweets11</string>
+			<string>sweets12</string>
+			<string>sweets13</string>
+			<string>sweets14</string>
+			<string>sweets15</string>
 		</array>
 		<key>packIcon</key>
 		<string>sweets</string>
@@ -344,6 +287,9 @@
 			<string>PixelArt8</string>
 			<string>PixelArt9</string>
 			<string>PixelArt10</string>
+			<string>PixelArt11</string>
+			<string>PixelArt12</string>
+			<string>PixelArt13</string>
 		</array>
 		<key>packIcon</key>
 		<string>pixelart</string>
@@ -359,11 +305,162 @@
 			<string>fish4</string>
 			<string>fish5</string>
 			<string>fish6</string>
+			<string>fish7</string>
+			<string>fish8</string>
+			<string>fish9</string>
+			<string>fish10</string>
+			<string>fish11</string>
+			<string>fish12</string>
+			<string>fish13</string>
+			<string>fish14</string>
+			<string>fish15</string>
 		</array>
 		<key>packIcon</key>
 		<string>ocean1</string>
 		<key>packName</key>
 		<string>OCEAN</string>
+	</dict>
+	<dict>
+		<key>packFiles</key>
+		<array>
+			<string>animal2stk</string>
+			<string>bird3stk</string>
+			<string>bird8stk</string>
+			<string>doodle2stk</string>
+			<string>flower2stk</string>
+			<string>mandala7stk</string>
+			<string>bird13stk</string>
+			<string>food2stk</string>
+			<string>love2stk</string>
+			<string>mandala2stk</string>
+		</array>
+		<key>packIcon</key>
+		<string>arttherapy</string>
+		<key>packName</key>
+		<string>ART THERAPY</string>
+	</dict>
+	<dict>
+		<key>packFiles</key>
+		<array>
+			<string>animal4stk</string>
+			<string>bird10stk</string>
+			<string>doodle4stk</string>
+			<string>bird5stk</string>
+			<string>flower4stk</string>
+			<string>sea4stk</string>
+			<string>food4stk</string>
+			<string>love4stk</string>
+			<string>mandala4stk</string>
+			<string>mandala9stk</string>
+		</array>
+		<key>packIcon</key>
+		<string>chillout</string>
+		<key>packName</key>
+		<string>CHILLOUT</string>
+	</dict>
+	<dict>
+		<key>packFiles</key>
+		<array>
+			<string>animal1stk</string>
+			<string>bird1stk</string>
+			<string>bird7stk</string>
+			<string>doodle1stk</string>
+			<string>flower1stk</string>
+			<string>food1stk</string>
+			<string>love1stk</string>
+			<string>mandala1stk</string>
+			<string>mandala6stk</string>
+			<string>sea1stk</string>
+		</array>
+		<key>packIcon</key>
+		<string>serenity</string>
+		<key>packName</key>
+		<string>SERENITY</string>
+	</dict>
+	<dict>
+		<key>packFiles</key>
+		<array>
+			<string>SweetHome1</string>
+			<string>SweetHome2</string>
+			<string>SweetHome3</string>
+			<string>SweetHome5</string>
+			<string>SweetHome6</string>
+			<string>HomeSweet1</string>
+			<string>HomeSweet2</string>
+			<string>HomeSweet3</string>
+			<string>HomeSweet4</string>
+			<string>HomeSweet5</string>
+			<string>HomeSweet6</string>
+			<string>HomeSweet8</string>
+			<string>HomeSweet9</string>
+			<string>HomeSweet10</string>
+		</array>
+		<key>packIcon</key>
+		<string>sweethome</string>
+		<key>packName</key>
+		<string>SWEET HOME</string>
+	</dict>
+	<dict>
+		<key>packFiles</key>
+		<array>
+			<string>autumn1</string>
+			<string>autumn2</string>
+			<string>autumn3</string>
+			<string>autumn4</string>
+			<string>autumn5</string>
+			<string>Herbst1</string>
+			<string>Herbst2</string>
+			<string>Herbst3</string>
+			<string>Herbst4</string>
+			<string>Herbst5</string>
+		</array>
+		<key>packIcon</key>
+		<string>autumn</string>
+		<key>packName</key>
+		<string>AUTUMN</string>
+	</dict>
+	<dict>
+		<key>packFiles</key>
+		<array>
+			<string>Christmas1</string>
+			<string>Christmas2</string>
+			<string>Christmas3</string>
+			<string>Christmas4</string>
+			<string>Christmas5</string>
+			<string>Christmas6</string>
+			<string>Christmas7</string>
+			<string>Christmas8</string>
+			<string>Christmas9</string>
+			<string>Christmas10</string>
+			<string>Christmas11</string>
+			<string>Christmas12</string>
+			<string>Christmas13</string>
+			<string>Christmas14</string>
+			<string>Christmas15</string>
+		</array>
+		<key>packIcon</key>
+		<string>christmas</string>
+		<key>packName</key>
+		<string>CHRISTMAS</string>
+	</dict>
+	<dict>
+		<key>packFiles</key>
+		<array>
+			<string>food7stk</string>
+			<string>food10stk</string>
+			<string>food11stk</string>
+			<string>food12stk</string>
+			<string>food13stk</string>
+			<string>food15stk</string>
+			<string>food20stk</string>
+			<string>food14stk</string>
+			<string>food6stk</string>
+			<string>food8stk</string>
+		</array>
+		<key>packIcon</key>
+		<string>icecream</string>
+		<key>packName</key>
+		<string>ICE CREAM</string>
 	</dict>
 </array>
 </plist>
