@@ -50,6 +50,21 @@
 	<dict>
 		<key>packFiles</key>
 		<array>
+			<string>MandalaV2_20</string>
+			<string>MandalaV2_21</string>
+			<string>MandalaV2_22</string>
+			<string>MandalaV2_23</string>
+			<string>MandalaV2_24</string>
+			<string>MandalaV2_25</string>
+		</array>
+		<key>packIcon</key>
+		<string>mandala3</string>
+		<key>packName</key>
+		<string>MANDALA 3</string>
+	</dict>
+	<dict>
+		<key>packFiles</key>
+		<array>
 			<string>paisley6</string>
 			<string>bird1</string>
 			<string>bird2</string>
