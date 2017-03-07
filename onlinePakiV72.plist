@@ -197,6 +197,21 @@
 	<dict>
 		<key>packFiles</key>
 		<array>
+			<string>ButterflyIS3</string>
+			<string>ButterflyIS4</string>
+			<string>ButterflyIS5</string>
+			<string>ButterflyIS6</string>
+			<string>ButterflyIS7</string>
+			<string>ButterflyIS11</string>
+		</array>
+		<key>packIcon</key>
+		<string>butterflies3</string>
+		<key>packName</key>
+		<string>BUTTERFLIES 3</string>
+	</dict>
+	<dict>
+		<key>packFiles</key>
+		<array>
 			<string>animal1</string>
 			<string>animal2</string>
 			<string>animal3</string>
