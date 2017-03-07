@@ -65,6 +65,26 @@
 	<dict>
 		<key>packFiles</key>
 		<array>
+			<string>paisley6</string>
+			<string>bird1</string>
+			<string>bird2</string>
+			<string>bird3</string>
+			<string>bird4</string>
+			<string>bird5</string>
+			<string>bird6</string>
+			<string>paisley3</string>
+			<string>paisley4</string>
+			<string>birdR1</string>
+			<string>birdR2</string>
+		</array>
+		<key>packIcon</key>
+		<string>birds</string>
+		<key>packName</key>
+		<string>BIRDS</string>
+	</dict>
+	<dict>
+		<key>packFiles</key>
+		<array>
 			<string>bird_IS8</string>
 			<string>bird_IS10</string>
 			<string>bird_IS11</string>
@@ -91,26 +111,6 @@
 		<string>magicworld</string>
 		<key>packName</key>
 		<string>MAGIC World</string>
-	</dict>
-	<dict>
-		<key>packFiles</key>
-		<array>
-			<string>paisley6</string>
-			<string>bird1</string>
-			<string>bird2</string>
-			<string>bird3</string>
-			<string>bird4</string>
-			<string>bird5</string>
-			<string>bird6</string>
-			<string>paisley3</string>
-			<string>paisley4</string>
-			<string>birdR1</string>
-			<string>birdR2</string>
-		</array>
-		<key>packIcon</key>
-		<string>birds</string>
-		<key>packName</key>
-		<string>BIRDS</string>
 	</dict>
 	<dict>
 		<key>packFiles</key>
