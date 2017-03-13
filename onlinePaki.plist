@@ -107,6 +107,8 @@
 			<string>butterfly7</string>
 			<string>ButterflyIS1</string>
 			<string>ButterflyIS2</string>
+			<string>ButterflyIS23</string>
+			<string>ButterflyIS25</string>
 		</array>
 		<key>packIcon</key>
 		<string>butterflies</string>
@@ -207,6 +209,8 @@
 			<string>flowerR9</string>
 			<string>FlowerV2_1</string>
 			<string>FlowerV2_2</string>
+			<string>FlowerV2_3</string>
+			<string>FlowerV2_4</string>
 		</array>
 		<key>packIcon</key>
 		<string>flowers</string>
