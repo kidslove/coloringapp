@@ -118,6 +118,21 @@
 	<dict>
 		<key>packFiles</key>
 		<array>
+			<string>ButterflyIS14</string>
+			<string>ButterflyIS15</string>
+			<string>ButterflyIS16</string>
+			<string>ButterflyIS17</string>
+			<string>ButterflyIS18</string>
+			<string>ButterflyIS24</string>
+		</array>
+		<key>packIcon</key>
+		<string>butterflies2</string>
+		<key>packName</key>
+		<string>BUTTERFLIES 2</string>
+	</dict>
+	<dict>
+		<key>packFiles</key>
+		<array>
 			<string>animal1</string>
 			<string>animal2</string>
 			<string>animal3</string>
@@ -403,6 +418,36 @@
 		<string>sweethome</string>
 		<key>packName</key>
 		<string>SWEET HOME</string>
+	</dict>
+	<dict>
+		<key>packFiles</key>
+		<array>
+			<string>magic1</string>
+			<string>magic2</string>
+			<string>magic3</string>
+			<string>magic4</string>
+			<string>magic5</string>
+			<string>magic9</string>
+		</array>
+		<key>packIcon</key>
+		<string>magicworld</string>
+		<key>packName</key>
+		<string>MAGIC WORLD</string>
+	</dict>
+	<dict>
+		<key>packFiles</key>
+		<array>
+			<string>garden1</string>
+			<string>garden2</string>
+			<string>garden3</string>
+			<string>garden4</string>
+			<string>garden5</string>
+			<string>garden6</string>
+		</array>
+		<key>packIcon</key>
+		<string>garden1</string>
+		<key>packName</key>
+		<string>GARDEN 1</string>
 	</dict>
 	<dict>
 		<key>packFiles</key>
