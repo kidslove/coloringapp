@@ -124,6 +124,11 @@
 			<string>ButterflyIS17</string>
 			<string>ButterflyIS18</string>
 			<string>ButterflyIS24</string>
+			<string>ButterflyIS19</string>
+			<string>ButterflyIS20</string>
+			<string>ButterflyIS21</string>
+			<string>ButterflyIS22</string>
+			<string>ButterflyIS26</string>
 		</array>
 		<key>packIcon</key>
 		<string>butterflies2</string>
@@ -428,6 +433,9 @@
 			<string>magic4</string>
 			<string>magic5</string>
 			<string>magic9</string>
+			<string>magic6</string>
+			<string>magic7</string>
+			<string>magic8</string>
 		</array>
 		<key>packIcon</key>
 		<string>magicworld</string>
