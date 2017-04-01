@@ -451,6 +451,9 @@
 			<string>magic6</string>
 			<string>magic7</string>
 			<string>magic8</string>
+			<string>magic10</string>
+			<string>magic11</string>
+			<string>magic12</string>
 		</array>
 		<key>packIcon</key>
 		<string>magicworld</string>
