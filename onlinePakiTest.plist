@@ -74,6 +74,21 @@
 	<dict>
 		<key>packFiles</key>
 		<array>
+			<string>bird_IS8</string>
+			<string>bird_IS10</string>
+			<string>bird_IS11</string>
+			<string>bird_IS12</string>
+			<string>bird_IS13</string>
+			<string>bird_IS16</string>
+		</array>
+		<key>packIcon</key>
+		<string>birds2</string>
+		<key>packName</key>
+		<string>BIRDS 2</string>
+	</dict>
+	<dict>
+		<key>packFiles</key>
+		<array>
 			<string>cat2</string>
 			<string>cat1</string>
 			<string>cat4</string>
