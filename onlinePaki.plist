@@ -483,6 +483,21 @@
 	<dict>
 		<key>packFiles</key>
 		<array>
+			<string>garden12</string>
+			<string>garden13</string>
+			<string>garden14</string>
+			<string>garden15</string>
+			<string>garden16</string>
+			<string>garden17</string>
+		</array>
+		<key>packIcon</key>
+		<string>garden2</string>
+		<key>packName</key>
+		<string>GARDEN 2</string>
+	</dict>
+	<dict>
+		<key>packFiles</key>
+		<array>
 			<string>autumn1</string>
 			<string>autumn2</string>
 			<string>autumn3</string>
