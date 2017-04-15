@@ -80,6 +80,10 @@
 			<string>bird_IS12</string>
 			<string>bird_IS13</string>
 			<string>bird_IS16</string>
+			<string>bird_IS14</string>
+			<string>bird_IS15</string>
+			<string>bird_IS17</string>
+			<string>bird_IS19</string>
 		</array>
 		<key>packIcon</key>
 		<string>birds2</string>
