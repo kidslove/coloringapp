@@ -199,6 +199,11 @@
 			<string>ButterflyIS6</string>
 			<string>ButterflyIS7</string>
 			<string>ButterflyIS11</string>
+			<string>ButterflyIS8</string>
+			<string>ButterflyIS9</string>
+			<string>ButterflyIS10</string>
+			<string>ButterflyIS12</string>
+			<string>ButterflyIS13</string>
 		</array>
 		<key>packIcon</key>
 		<string>butterflies3</string>
