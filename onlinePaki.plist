@@ -58,6 +58,9 @@
 			<string>MandalaV2_17</string>
 			<string>MandalaV2_18</string>
 			<string>MandalaV2_19</string>
+			<string>MandalaV2_26</string>
+			<string>MandalaV2_27</string>
+			<string>MandalaV2_28</string>
 		</array>
 		<key>packIcon</key>
 		<string>mandala2</string>
@@ -572,6 +575,8 @@
 			<string>Herbst3</string>
 			<string>Herbst4</string>
 			<string>Herbst5</string>
+			<string>autumn28</string>
+			<string>autumn29</string>
 		</array>
 		<key>packIcon</key>
 		<string>autumn</string>
