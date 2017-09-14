@@ -123,6 +123,8 @@
 			<string>bird_IS15</string>
 			<string>bird_IS17</string>
 			<string>bird_IS19</string>
+			<string>update_7_25_1</string>
+			<string>update_7_25_2</string>
 		</array>
 		<key>packIcon</key>
 		<string>birds2</string>
@@ -537,6 +539,9 @@
 			<string>garden8</string>
 			<string>garden10</string>
 			<string>garden11</string>
+			<string>update_7_25_3</string>
+			<string>update_7_25_4</string>
+			<string>update_7_25_5</string>
 		</array>
 		<key>packIcon</key>
 		<string>garden1</string>
