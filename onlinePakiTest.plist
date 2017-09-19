@@ -125,6 +125,9 @@
 			<string>bird_IS19</string>
 			<string>update_7_25_1</string>
 			<string>update_7_25_2</string>
+			<string>Update_7_26_1</string>
+			<string>Update_7_26_2</string>
+			<string>Update_7_26_3</string>
 		</array>
 		<key>packIcon</key>
 		<string>birds2</string>
@@ -372,6 +375,8 @@
 			<string>sweets13</string>
 			<string>sweets14</string>
 			<string>sweets15</string>
+			<string>Update_7_26_4</string>
+			<string>Update_7_26_5</string>
 		</array>
 		<key>packIcon</key>
 		<string>sweets</string>
