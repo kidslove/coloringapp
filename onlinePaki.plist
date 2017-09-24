@@ -236,6 +236,8 @@
 			<string>FOX</string>
 			<string>Lion2</string>
 			<string>animal_IS_1</string>
+			<string>Update_7_27_4</string>
+			<string>Update_7_27_5</string>
 		</array>
 		<key>packIcon</key>
 		<string>animals</string>
@@ -314,6 +316,9 @@
 			<string>FlowerV2_2</string>
 			<string>FlowerV2_3</string>
 			<string>FlowerV2_4</string>
+			<string>Update_7_27_1</string>
+			<string>Update_7_27_2</string>
+			<string>Update_7_27_3</string>
 		</array>
 		<key>packIcon</key>
 		<string>flowers</string>
