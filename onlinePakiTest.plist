@@ -466,6 +466,8 @@
 			<string>love4stk</string>
 			<string>mandala4stk</string>
 			<string>mandala9stk</string>
+			<string>update_7_28_1</string>
+			<string>update_7_28_2</string>
 		</array>
 		<key>packIcon</key>
 		<string>chillout</string>
@@ -508,6 +510,10 @@
 			<string>HomeSweet8</string>
 			<string>HomeSweet9</string>
 			<string>HomeSweet10</string>
+			<string>update_7_28_3</string>
+			<string>update_7_28_4</string>
+			<string>update_7_28_5</string>
+			<string>update_7_28_6</string>
 		</array>
 		<key>packIcon</key>
 		<string>sweethome</string>
