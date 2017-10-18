@@ -76,6 +76,9 @@
 			<string>MandalaV2_23</string>
 			<string>MandalaV2_24</string>
 			<string>MandalaV2_25</string>
+			<string>MandalaV2_29</string>
+			<string>MandalaV2_30</string>
+			<string>MandalaV2_31</string>
 		</array>
 		<key>packIcon</key>
 		<string>mandala3</string>
@@ -492,6 +495,9 @@
 			<string>mandala1stk</string>
 			<string>mandala6stk</string>
 			<string>sea1stk</string>
+			<string>origami1</string>
+			<string>origami6</string>
+			<string>origami7</string>
 		</array>
 		<key>packIcon</key>
 		<string>serenity</string>
