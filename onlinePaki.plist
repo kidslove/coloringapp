@@ -260,6 +260,8 @@
 			<string>Maske8</string>
 			<string>Maske9</string>
 			<string>Maske10</string>
+			<string>update_7_32_1</string>
+			<string>update_7_32_2</string>
 		</array>
 		<key>packIcon</key>
 		<string>masks</string>
@@ -569,6 +571,9 @@
 			<string>update_7_25_3</string>
 			<string>update_7_25_4</string>
 			<string>update_7_25_5</string>
+			<string>update_7_32_3</string>
+			<string>update_7_32_4</string>
+			<string>update_7_32_5</string>
 		</array>
 		<key>packIcon</key>
 		<string>garden1</string>
