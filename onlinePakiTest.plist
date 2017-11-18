@@ -324,6 +324,8 @@
 			<string>Update_7_27_1</string>
 			<string>Update_7_27_2</string>
 			<string>Update_7_27_3</string>
+			<string>update_7_33_1</string>
+			<string>update_7_33_2</string>
 		</array>
 		<key>packIcon</key>
 		<string>flowers</string>
@@ -527,6 +529,9 @@
 			<string>update_7_28_4</string>
 			<string>update_7_28_5</string>
 			<string>update_7_28_6</string>
+			<string>update_7_33_3</string>
+			<string>update_7_33_4</string>
+			<string>update_7_33_5</string>
 		</array>
 		<key>packIcon</key>
 		<string>sweethome</string>
