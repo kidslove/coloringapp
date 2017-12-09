@@ -372,6 +372,10 @@
 			<string>muster_26</string>
 			<string>muster_27</string>
 			<string>muster_28</string>
+			<string>Update_7_35_6</string>
+			<string>Update_7_35_7</string>
+			<string>Update_7_35_8</string>
+			<string>Update_7_35_9</string>
 		</array>
 		<key>packIcon</key>
 		<string>patterns</string>
@@ -660,6 +664,11 @@
 			<string>Christmas15</string>
 			<string>Update_7_31_7</string>
 			<string>Update_7_31_8</string>
+			<string>Update_7_35_1</string>
+			<string>Update_7_35_2</string>
+			<string>Update_7_35_3</string>
+			<string>Update_7_35_4</string>
+			<string>Update_7_35_5</string>
 		</array>
 		<key>packIcon</key>
 		<string>christmas</string>
