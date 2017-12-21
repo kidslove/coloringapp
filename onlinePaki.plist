@@ -79,6 +79,12 @@
 			<string>MandalaV2_29</string>
 			<string>MandalaV2_30</string>
 			<string>MandalaV2_31</string>
+			<string>Update_7_37_7</string>
+			<string>Update_7_37_8</string>
+			<string>Update_7_37_9</string>
+			<string>Update_7_37_10</string>
+			<string>Update_7_37_11</string>
+			<string>Update_7_37_12</string>
 		</array>
 		<key>packIcon</key>
 		<string>mandala3</string>
@@ -674,6 +680,12 @@
 			<string>Update_7_36_3</string>
 			<string>Update_7_36_4</string>
 			<string>Update_7_36_5</string>
+			<string>Update_7_37_1</string>
+			<string>Update_7_37_2</string>
+			<string>Update_7_37_3</string>
+			<string>Update_7_37_4</string>
+			<string>Update_7_37_5</string>
+			<string>Update_7_37_6</string>
 		</array>
 		<key>packIcon</key>
 		<string>christmas</string>
