@@ -162,6 +162,10 @@
 			<string>cat9</string>
 			<string>cat10</string>
 			<string>cat11</string>
+			<string>Update_7_38_4</string>
+			<string>Update_7_38_5</string>
+			<string>Update_7_38_6</string>
+			<string>Update_7_38_7</string>
 		</array>
 		<key>packIcon</key>
 		<string>cats</string>
@@ -499,6 +503,9 @@
 			<string>mandala9stk</string>
 			<string>update_7_28_1</string>
 			<string>update_7_28_2</string>
+			<string>Update_U_7_38_1</string>
+			<string>Update_U_7_38_2</string>
+			<string>Update_U_7_38_3</string>
 		</array>
 		<key>packIcon</key>
 		<string>chillout</string>
