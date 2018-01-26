@@ -41,7 +41,7 @@
 		<key>packIcon</key>
 		<string>mandalas</string>
 		<key>packName</key>
-		<string>MANDALAS</string>
+		<string>MANDALA 1</string>
 	</dict>
 	<dict>
 		<key>packFiles</key>
@@ -153,19 +153,19 @@
 		<key>packFiles</key>
 		<array>
 			<string>cat2</string>
+            <string>cat9</string>
+            <string>cat10</string>
+            <string>cat11</string>
+            <string>Update_7_38_4</string>
+            <string>Update_7_38_5</string>
+            <string>Update_7_38_6</string>
+            <string>Update_7_38_7</string>
 			<string>cat1</string>
 			<string>cat4</string>
 			<string>cat5</string>
 			<string>cat6</string>
 			<string>cat7</string>
 			<string>cat8</string>
-			<string>cat9</string>
-			<string>cat10</string>
-			<string>cat11</string>
-			<string>Update_7_38_4</string>
-			<string>Update_7_38_5</string>
-			<string>Update_7_38_6</string>
-			<string>Update_7_38_7</string>
 		</array>
 		<key>packIcon</key>
 		<string>cats</string>
@@ -175,6 +175,10 @@
 	<dict>
 		<key>packFiles</key>
 		<array>
+            <string>ButterflyIS1</string>
+            <string>ButterflyIS2</string>
+            <string>ButterflyIS23</string>
+            <string>ButterflyIS25</string>
 			<string>Butterfly1</string>
 			<string>Butterfly2</string>
 			<string>Butterfly3</string>
@@ -187,15 +191,11 @@
 			<string>butterfly9</string>
 			<string>butterfly10</string>
 			<string>butterfly7</string>
-			<string>ButterflyIS1</string>
-			<string>ButterflyIS2</string>
-			<string>ButterflyIS23</string>
-			<string>ButterflyIS25</string>
 		</array>
 		<key>packIcon</key>
 		<string>butterflies</string>
 		<key>packName</key>
-		<string>BUTTERFLIES</string>
+		<string>BUTTERFLIES 1</string>
 	</dict>
 	<dict>
 		<key>packFiles</key>
@@ -240,6 +240,10 @@
 	<dict>
 		<key>packFiles</key>
 		<array>
+            <string>Update_7_27_4</string>
+            <string>Update_7_27_5</string>
+            <string>Lion2</string>
+            <string>animal_IS_1</string>
 			<string>animal1</string>
 			<string>animal2</string>
 			<string>animal3</string>
@@ -253,10 +257,6 @@
 			<string>animalR5</string>
 			<string>animalR6</string>
 			<string>FOX</string>
-			<string>Lion2</string>
-			<string>animal_IS_1</string>
-			<string>Update_7_27_4</string>
-			<string>Update_7_27_5</string>
 		</array>
 		<key>packIcon</key>
 		<string>animals</string>
@@ -266,6 +266,8 @@
 	<dict>
 		<key>packFiles</key>
 		<array>
+            <string>update_7_32_1</string>
+            <string>update_7_32_2</string>
 			<string>Maske2</string>
 			<string>Maske1</string>
 			<string>Maske3</string>
@@ -276,8 +278,6 @@
 			<string>Maske8</string>
 			<string>Maske9</string>
 			<string>Maske10</string>
-			<string>update_7_32_1</string>
-			<string>update_7_32_2</string>
 		</array>
 		<key>packIcon</key>
 		<string>masks</string>
@@ -287,6 +287,9 @@
 	<dict>
 		<key>packFiles</key>
 		<array>
+            <string>update_7_34_7</string>
+            <string>update_7_34_8</string>
+            <string>update_7_34_9</string>
 			<string>Woman1</string>
 			<string>Woman2</string>
 			<string>Woman3</string>
@@ -302,9 +305,6 @@
 			<string>Woman13</string>
 			<string>Woman14</string>
 			<string>Woman15</string>
-			<string>update_7_34_7</string>
-			<string>update_7_34_8</string>
-			<string>update_7_34_9</string>
 		</array>
 		<key>packIcon</key>
 		<string>women</string>
@@ -314,6 +314,15 @@
 	<dict>
 		<key>packFiles</key>
 		<array>
+            <string>FlowerV2_1</string>
+            <string>FlowerV2_2</string>
+            <string>FlowerV2_3</string>
+            <string>FlowerV2_4</string>
+            <string>Update_7_27_1</string>
+            <string>Update_7_27_2</string>
+            <string>Update_7_27_3</string>
+            <string>update_7_33_1</string>
+            <string>update_7_33_2</string>
 			<string>flower6</string>
 			<string>flower7</string>
 			<string>flower9</string>
@@ -336,15 +345,6 @@
 			<string>flowerR7</string>
 			<string>flowerR8</string>
 			<string>flowerR9</string>
-			<string>FlowerV2_1</string>
-			<string>FlowerV2_2</string>
-			<string>FlowerV2_3</string>
-			<string>FlowerV2_4</string>
-			<string>Update_7_27_1</string>
-			<string>Update_7_27_2</string>
-			<string>Update_7_27_3</string>
-			<string>update_7_33_1</string>
-			<string>update_7_33_2</string>
 		</array>
 		<key>packIcon</key>
 		<string>flowers</string>
@@ -354,6 +354,10 @@
 	<dict>
 		<key>packFiles</key>
 		<array>
+            <string>Update_7_35_6</string>
+            <string>Update_7_35_7</string>
+            <string>Update_7_35_8</string>
+            <string>Update_7_35_9</string>
 			<string>muster1</string>
 			<string>muster2</string>
 			<string>muster3</string>
@@ -382,10 +386,6 @@
 			<string>muster_26</string>
 			<string>muster_27</string>
 			<string>muster_28</string>
-			<string>Update_7_35_6</string>
-			<string>Update_7_35_7</string>
-			<string>Update_7_35_8</string>
-			<string>Update_7_35_9</string>
 		</array>
 		<key>packIcon</key>
 		<string>patterns</string>
@@ -395,6 +395,8 @@
 	<dict>
 		<key>packFiles</key>
 		<array>
+            <string>Update_7_26_4</string>
+            <string>Update_7_26_5</string>
 			<string>sweets1</string>
 			<string>sweets2</string>
 			<string>sweets3</string>
@@ -410,8 +412,6 @@
 			<string>sweets13</string>
 			<string>sweets14</string>
 			<string>sweets15</string>
-			<string>Update_7_26_4</string>
-			<string>Update_7_26_5</string>
 		</array>
 		<key>packIcon</key>
 		<string>sweets</string>
@@ -537,6 +537,13 @@
 	<dict>
 		<key>packFiles</key>
 		<array>
+            <string>update_7_28_3</string>
+            <string>update_7_28_4</string>
+            <string>update_7_28_5</string>
+            <string>update_7_28_6</string>
+            <string>update_7_33_3</string>
+            <string>update_7_33_4</string>
+            <string>update_7_33_5</string>
 			<string>SweetHome1</string>
 			<string>SweetHome2</string>
 			<string>SweetHome3</string>
@@ -551,13 +558,6 @@
 			<string>HomeSweet8</string>
 			<string>HomeSweet9</string>
 			<string>HomeSweet10</string>
-			<string>update_7_28_3</string>
-			<string>update_7_28_4</string>
-			<string>update_7_28_5</string>
-			<string>update_7_28_6</string>
-			<string>update_7_33_3</string>
-			<string>update_7_33_4</string>
-			<string>update_7_33_5</string>
 		</array>
 		<key>packIcon</key>
 		<string>sweethome</string>
@@ -589,6 +589,12 @@
 	<dict>
 		<key>packFiles</key>
 		<array>
+            <string>update_7_25_3</string>
+            <string>update_7_25_4</string>
+            <string>update_7_25_5</string>
+            <string>update_7_32_3</string>
+            <string>update_7_32_4</string>
+            <string>update_7_32_5</string>
 			<string>garden1</string>
 			<string>garden2</string>
 			<string>garden3</string>
@@ -599,12 +605,6 @@
 			<string>garden8</string>
 			<string>garden10</string>
 			<string>garden11</string>
-			<string>update_7_25_3</string>
-			<string>update_7_25_4</string>
-			<string>update_7_25_5</string>
-			<string>update_7_32_3</string>
-			<string>update_7_32_4</string>
-			<string>update_7_32_5</string>
 		</array>
 		<key>packIcon</key>
 		<string>garden1</string>
@@ -633,6 +633,12 @@
 	<dict>
 		<key>packFiles</key>
 		<array>
+            <string>Update_7_31_1</string>
+            <string>Update_7_31_2</string>
+            <string>Update_7_31_3</string>
+            <string>Update_7_31_4</string>
+            <string>Update_7_31_5</string>
+            <string>Update_7_31_6</string>
 			<string>autumn1</string>
 			<string>autumn2</string>
 			<string>autumn3</string>
@@ -645,12 +651,6 @@
 			<string>Herbst5</string>
 			<string>autumn28</string>
 			<string>autumn29</string>
-			<string>Update_7_31_1</string>
-			<string>Update_7_31_2</string>
-			<string>Update_7_31_3</string>
-			<string>Update_7_31_4</string>
-			<string>Update_7_31_5</string>
-			<string>Update_7_31_6</string>
 		</array>
 		<key>packIcon</key>
 		<string>autumn</string>
@@ -660,6 +660,24 @@
 	<dict>
 		<key>packFiles</key>
 		<array>
+            <string>Update_7_31_7</string>
+            <string>Update_7_31_8</string>
+            <string>Update_7_35_1</string>
+            <string>Update_7_35_2</string>
+            <string>Update_7_35_3</string>
+            <string>Update_7_35_4</string>
+            <string>Update_7_35_5</string>
+            <string>Update_7_36_1</string>
+            <string>Update_7_36_2</string>
+            <string>Update_7_36_3</string>
+            <string>Update_7_36_4</string>
+            <string>Update_7_36_5</string>
+            <string>Update_7_37_1</string>
+            <string>Update_7_37_2</string>
+            <string>Update_7_37_3</string>
+            <string>Update_7_37_4</string>
+            <string>Update_7_37_5</string>
+            <string>Update_7_37_6</string>
 			<string>Christmas1</string>
 			<string>Christmas2</string>
 			<string>Christmas3</string>
@@ -675,24 +693,6 @@
 			<string>Christmas13</string>
 			<string>Christmas14</string>
 			<string>Christmas15</string>
-			<string>Update_7_31_7</string>
-			<string>Update_7_31_8</string>
-			<string>Update_7_35_1</string>
-			<string>Update_7_35_2</string>
-			<string>Update_7_35_3</string>
-			<string>Update_7_35_4</string>
-			<string>Update_7_35_5</string>
-			<string>Update_7_36_1</string>
-			<string>Update_7_36_2</string>
-			<string>Update_7_36_3</string>
-			<string>Update_7_36_4</string>
-			<string>Update_7_36_5</string>
-			<string>Update_7_37_1</string>
-			<string>Update_7_37_2</string>
-			<string>Update_7_37_3</string>
-			<string>Update_7_37_4</string>
-			<string>Update_7_37_5</string>
-			<string>Update_7_37_6</string>
 		</array>
 		<key>packIcon</key>
 		<string>christmas</string>
@@ -717,6 +717,40 @@
 		<string>icecream</string>
 		<key>packName</key>
 		<string>ICE CREAM</string>
+	</dict>
+	<dict>
+		<key>packFiles</key>
+		<array>
+			<string>Landscape_1</string>
+			<string>Landscape_2</string>
+			<string>Landscape_3</string>
+			<string>Landscape_4</string>
+			<string>Landscape_5</string>
+			<string>Landscape_6</string>
+			<string>Landscape_7</string>
+			<string>Landscape_8</string>
+			<string>Landscape_9</string>
+			<string>Landscape_10</string>
+			<string>Landscape_11</string>
+			<string>Landscape_12</string>
+			<string>Landscape_13</string>
+			<string>Landscape_14</string>
+			<string>Landscape_15</string>
+			<string>Landscape_16</string>
+			<string>Landscape_17</string>
+			<string>Landscape_18</string>
+			<string>Landscape_19</string>
+			<string>Landscape_20</string>
+			<string>Landscape_21</string>
+			<string>Landscape_22</string>
+			<string>Landscape_23</string>
+			<string>Landscape_24</string>
+			<string>Landscape_25</string>
+		</array>
+		<key>packIcon</key>
+		<string>landscapes</string>
+		<key>packName</key>
+		<string>LANDSCAPES</string>
 	</dict>
 </array>
 </plist>
